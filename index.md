@@ -1,7 +1,8 @@
 # Sahil Kadadekar
 
 **AI Systems Engineer | LLM Architect | Mythmaker in Code**  
- Designing intelligent, modular systems at the intersection of language models, scalable infrastructure, and user-focused interfaces.
+ Building intelligent, modular systems at the intersection of language models, infrastructure, and UX.
+
 ---
 
 ##  Focus Areas
